@@ -1,6 +1,6 @@
 import requests
 
-api_key = "fc6d379d55b35e07f34a65049b39ca56"
+api_key = "your-api-key"
 
 # localit_Id = 'ZWL003027'
 # ZWL003027 - ameerpet
