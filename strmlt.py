@@ -13,7 +13,7 @@ st.markdown(
         color: #333333;
     }
     .st-at {
-        font-size: 21px;
+        font-size: 24px;
         font-weight: bold;
         color: #0071bb;
     }
