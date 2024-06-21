@@ -1,6 +1,7 @@
 import requests
+import streamlit as st
 
-api_key = "your-api-key"
+api_key = st.secrets.api_credentials.api_key
 
 def zom_weather(local_ids):
     url = f'https://weatherunion.com/gw/weather/external/v0/get_locality_weather_data?locality_id={local_ids}'
